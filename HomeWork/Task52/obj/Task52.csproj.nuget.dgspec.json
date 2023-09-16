@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\С#\\Seminars\\Dz--7\\HomeWork\\Task52\\Task52.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\С#\\Seminars\\Dz--7\\HomeWork\\task52\\Task52.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\С#\\Seminars\\Dz--7\\HomeWork\\Task52\\Task52.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\С#\\Seminars\\Dz--7\\HomeWork\\task52\\Task52.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\С#\\Seminars\\Dz--7\\HomeWork\\Task52\\Task52.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\С#\\Seminars\\Dz--7\\HomeWork\\task52\\Task52.csproj",
         "projectName": "Task52",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\С#\\Seminars\\Dz--7\\HomeWork\\Task52\\Task52.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\С#\\Seminars\\Dz--7\\HomeWork\\task52\\Task52.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\С#\\Seminars\\Dz--7\\HomeWork\\Task52\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\С#\\Seminars\\Dz--7\\HomeWork\\task52\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
